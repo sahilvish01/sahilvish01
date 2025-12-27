@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-💻 I’m a Web Developer.<br>🎓 I’m an Engineering Student at BGIEM.<br>💡 I’m proficient in C, C++, Java & Web Technologies.
+💻 I’m a Web Developer.<br>🎓 Engineering Student at BGIEM.<br>💡 Proficient in C, C++, Java & Web Technologies.<br>☕ Let's connect and build efficient solutions together.
 
 
 ## 🌐 Socials:
